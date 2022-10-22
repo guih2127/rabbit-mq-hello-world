@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/guih2127/rabbit-mq-hello-world/issues"
   },
-  "homepage": "https://github.com/guih2127/rabbit-mq-hello-world#readme"
+  "homepage": "https://github.com/guih2127/rabbit-mq-hello-world#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
 }
